@@ -100,8 +100,16 @@
         "url": "https://github.com/nwfsc-cb/rCAX/"
     },
     {
+        "package": "Rceattle",
+        "url": "https://github.com/grantdadams/Rceattle"
+    },
+    {
         "package": "stockplotr",
         "url": "https://github.com/nmfs-ost/stockplotr"
+    },
+    {
+        "package": "SPoRC",
+        "url": "https://github.com/chengmatt/SPoRC"
     },
     {
         "package": "nmfspalette",
